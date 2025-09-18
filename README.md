@@ -1,5 +1,9 @@
 # 📧 Email Sender - Envío Masivo de Correos
 
+<p align="center">
+  <img src="public/email-sender.webp" alt="Vista previa de la app" width="700" style="border-radius: 15px;"/>
+</p>
+
 Una aplicación web moderna desarrollada con Next.js 15 que permite el envío masivo de correos electrónicos personalizados a través de múltiples proveedores de email.
 
 ## ✨ Características
